@@ -20,7 +20,7 @@ const CONFIG = {
   groom: {
     name: "이준영",
     father: "이현수",
-    mother: "이민수",
+    mother: "이민",
     fatherDeceased: false,
     motherDeceased: false
   },
@@ -38,7 +38,7 @@ const CONFIG = {
     time: "13:00",
     venue: "JW웨딩컨벤션센터",
     hall: "4층 그랜드볼룸홀",
-    address: "김해대로 2520",
+    address: "경남 김해시 김해대로 2520",
     mapLinks: {
       kakao: "https://place.map.kakao.com/19005414",
       naver: "https://naver.me/F0AACTY0"
